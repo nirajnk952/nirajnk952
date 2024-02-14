@@ -5,7 +5,7 @@
 
 
 
-<h3 align="center">I am a final-year B.Tech Information Technology student. Programming is my passion. Strong design and integration skills, as well as intuitive problem-solving abilities. Expertise in C++, Web development, and MySQL. I am enthusiastic about implementing and launching new projects. Capability to convert business requirements into technical solutions!</h3>
+<h3 align="center">"As a recent graduate with a B.Tech in Information Technology, I am passionate about programming and possess Strong design and integration skills, as well as intuitive problem-solving abilities. Expertise in C++, Web development, and MySQL. I am enthusiastic about implementing and launching new projects. Capability to convert business requirements into technical solutions!</h3>
 
 
 
