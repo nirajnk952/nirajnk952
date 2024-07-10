@@ -32,7 +32,7 @@
 
 
 
-- 🔭 Created a web application that fetches dynamic weather. [Get Weather](https://62b9370ed2fa154ff837d09f--venerable-druid-966fc5.netlify.app/)
+- 🔭 Created a web application that fetches dynamic weather. [Get Weather](https://getweather9.netlify.app/)
 
 - 🌱 I’m currently learning **DSA,CPP and Web-Development.**
 
@@ -40,7 +40,7 @@
 
 - 🔭 Working on a web project that uses AI and ML to assist the invigilator and institute in conducting a fair exam. **Xamtrack**
 
-- 👨‍💻 All of my projects are available at [https://nirajnk952.website/](https://nirajnk952.website/)
+- 👨‍💻 All of my projects are available at [https://nirajnk952.website/](https://portfolio54.netlify.app/)
 
 - 💬 Ask me about **HTML,CSS,JavaScript,PHP,MYSQL**
 
